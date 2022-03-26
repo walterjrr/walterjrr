@@ -1,6 +1,7 @@
 ### Olá, sou Walter Júnior 👋
 
 - 🔭 Estudando CSS, Javacsript, React, Next, Nodejs, MongoDB,
+- 🎓 Cursando Sistema de Informação
 - 📫 LinkedIn  https://www.linkedin.com/in/walter-peixoto-jr
 
 
@@ -8,15 +9,19 @@
  ## Oiii! Eu sou Walter Júnior
  <div>
   <a href="https://github.com/walterjrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterjrr&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterjrr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ 
+  <img align="center" alt="HTML" height="30" width="40" src="./icons/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="./icons/css3-original.svg">
+  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="./icons/javascript-original.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="./icons/react-original.svg">
+ <img align="center" alt="NODE" height="30" width="40" src="./icons/nodejs-original.svg">
+ <img align="center" alt="NEXT" height="30" width="40" src="./icons/nextjs-original.svg">
+ <img align="center" alt="MONGODB" height="30" width="40" src="./icons/mongodb-original.svg">
+ <img align="center" alt="LINUX" height="30" width="40" src="./icons/linux-original.svg">
 </div>
   
   ##
