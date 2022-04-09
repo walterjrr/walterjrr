@@ -22,6 +22,7 @@
  <img align="center" alt="NEXT" height="30" width="40" src="./icons/nextjs-original.svg">
  <img align="center" alt="MONGODB" height="30" width="40" src="./icons/mongodb-original.svg">
  <img align="center" alt="LINUX" height="30" width="40" src="./icons/linux-original.svg">
+ <img align="center" alt="INSOMNIA" height="30" width="40" src="./icons/insomnia-icon.png">
 </div>
   
   ##
