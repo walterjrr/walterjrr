@@ -3,7 +3,6 @@
 - 🔭 Estudando Styled-Component, React, Next, Typescript, Jest
 
 
-React, Next, MongoDB,
 - 🎓 Cursando Sistema de Informação
 - 📫 LinkedIn  https://www.linkedin.com/in/walter-peixoto-jr
 
