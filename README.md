@@ -1,6 +1,9 @@
 ### Olá, sou Walter Júnior 👋
 
-- 🔭 Estudando CSS, Material-Ui, Javacsript, React, Next, Nodejs, MongoDB,
+- 🔭 Estudando Styled-Component, Javacs
+
+
+React, Next, MongoDB,
 - 🎓 Cursando Sistema de Informação
 - 📫 LinkedIn  https://www.linkedin.com/in/walter-peixoto-jr
 
