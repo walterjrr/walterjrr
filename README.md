@@ -1,6 +1,6 @@
 ### Olá, sou Walter Júnior 👋
 
-- 🔭 Estudando Styled-Component, React, Next, Typescript, Jest
+- 🔭 Estudando NodeJs, React, MongoDb, Typescript, Jest
 
 
 - 🎓 Cursando Sistema de Informação
